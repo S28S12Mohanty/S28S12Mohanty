@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://github.com/S28S12Mohanty/S28S12Mohanty/blob/3ca88036f6405d3f89ff0f7b8c511ac308003f2f/coding%20girl.gif?raw=true" 
+<img src="https://github.com/S28S12Mohanty/S28S12Mohanty/blob/c0ceb47836b7246b1ca8e1af5d70926a9687cecc/image.gif" 
      alt="coding girl" align="center"
-     style="width: 400px;" />
+     style="width: 400;" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
