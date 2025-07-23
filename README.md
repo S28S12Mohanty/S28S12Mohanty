@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://github.com/S28S12Mohanty/S28S12Mohanty/blob/c0ceb47836b7246b1ca8e1af5d70926a9687cecc/image.gif" 
+<img src="https://github.com/S28S12Mohanty/S28S12Mohanty/blob/e527638237c06b107d6c6d81212a12e2cd3c4b63/discord.gif" 
      alt="coding girl" align="center"
      style="width: 400;" />
 </p>
