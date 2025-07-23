@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github.com/S28S12Mohanty/S28S12Mohanty/blob/e527638237c06b107d6c6d81212a12e2cd3c4b63/discord.gif" 
      alt="coding girl" align="center"
-     style="width: 400;" />
+     style="width: 400px;" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
