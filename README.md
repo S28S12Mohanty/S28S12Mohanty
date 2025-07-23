@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sunami Swayamprava Mohanty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt=“codeing” width=“400” src=“https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif”>
 
-![image alt](https://github.com/S28S12Mohanty/S28S12Mohanty/blob/3ca88036f6405d3f89ff0f7b8c511ac308003f2f/coding%20girl.gif)
+<img src="https://github.com/S28S12Mohanty/S28S12Mohanty/blob/3ca88036f6405d3f89ff0f7b8c511ac308003f2f/coding%20girl.gif?raw=true" 
+     alt="coding girl" 
+     style="width: 400px; position: relative; right: 0;" />
+
 
 
 <h3 align="left">Connect with me:</h3>
